@@ -12,7 +12,7 @@
  
  2. Importe uma lista de moedas (moedas-bbc.csv)
  <p align="center">
-    <img src="resources/moedas-bbc.csv.pngg">
+    <img src="resources/moedas-bbc.csv.png">
  </p>
  
  4. Selecione a moeda desejada
