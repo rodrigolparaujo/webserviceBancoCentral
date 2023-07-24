@@ -20,4 +20,4 @@
  6. Para gravar no Protheus (Tabela SM2), clique no botão "Confirmar"
 
 ##Documentação Banco Central
- Para ter acesso completo a documentação do Banco Central, [acesse este link].(https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios)
+ Para ter acesso completo a documentação do Banco Central, acesse este link (https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios)
