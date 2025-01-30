@@ -21,3 +21,5 @@
 
 ##Documentação Banco Central
  Para ter acesso completo a documentação do Banco Central, acesse este link (https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios)
+
+<center><p><a href="https://dayz-servers.org/server/170059/"><img src="https://dayz-servers.org/server/170059/banners/leaderboard-1.png" border="0" class="img-fluid"></a></p></center>
